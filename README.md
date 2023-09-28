@@ -3,7 +3,9 @@
 # Image-duplicate-remover
 
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AydenBravender/Image-duplicate-remover/main/Screenshot%202023-09-28%20171000.jpg" alt="Example Tkinter window" width="50%" height="50%">>
+</p>
 
 ## Overview
 
